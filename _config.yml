@@ -29,7 +29,7 @@ twitter_username: ""
 github_username:  gurvindergarcha
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
